@@ -56,5 +56,5 @@ A função pode ser testada no próprio Visual Studio Code
 Selecionar o depurador no menu à esquerda> selecionar "Attach to Python Functios"> copiar a URL da função no terminal> testar abrindo http://localhost:7071/api/HttpExample em seu navegador> acrescentar o valor de consulta ?name=functions> http://localhost:7071/api/HttpExample?name=functions
 
 Ou na function publicada no Azure
-APP functions> copiar URL>testar no Postman
+APP functions> copiar URL>https://funcaoazure123.azurewebsites.net/api/HttpExample? > testar no Postman
 
