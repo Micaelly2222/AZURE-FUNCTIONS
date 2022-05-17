@@ -49,7 +49,7 @@ Escolha o ícone do Azure> Functions> " Implantar no aplicativo de funções". F
   De volta na área Azure> função HttpExample >  "Executar Agora" > "Insira o corpo da solicitação"> clicar em ENTER para enviar essa mensagem de solicitação à função.
   Pressionar F1 para abrir a paleta de comandos> Azure Functions: Open in portal> escolher o aplicativo de funções e pressione Enter> a página do aplicativo de funções   é aberta no portal do Azure.
 
-## 5. Testar a função
+## 6. Testar a função
 
 A função pode ser testada no próprio Visual Studio Code 
 
