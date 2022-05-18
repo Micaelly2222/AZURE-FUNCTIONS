@@ -48,5 +48,6 @@ Selecionar o depurador no menu à esquerda> selecionar "Attach to Python Functio
 
 Ou na function publicada no Azure
 APP functions> copiar URL>https://funcaoc123.azurewebsites.net/api/HttpExample?> testar no Postman
-![image](https://user-images.githubusercontent.com/96353855/168939621-b11be6ac-8c57-4468-891d-819e916097fe.png)
+![POSTMAN2](https://user-images.githubusercontent.com/96353855/168939701-b8d4ada7-e463-4737-8027-fef4a0215133.jpg)
+
 
