@@ -12,7 +12,9 @@
 
 Escolher o ícone do Azure no Visual Studio Code e ir em : Functions> Criar Projeto> Escolher um diretório > Fornecer as informações solicitadas 
 
-2.Executar a função localmente
+
+## 2.Executar a função localmente
+
 ❗ O Visual Studio Code vai se integrar ao Azure Functions Core Tools para permitir que execute na maquina antes da publicação no Azure.
 
 Para chamar a função, pressionar F5. Com o Core Tools em execução, acessar a área do Azure> "Executar função agora" > "Insira o corpo da solicitação", pressionar ENTER para enviar essa mensagem de solicitação à função.
